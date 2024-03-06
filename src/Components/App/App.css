@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500;1,600&family=Roboto&family=Rubik:wght@500&family=Shadows+Into+Light&display=swap');
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    color: #464646;
+    font-family: 'Shadows Into Light', cursive;
+}
+.main {
+    display: flex;
+    margin: 50px 0 50px;
+}
+
+.main .filters,
+.main .product {
+    box-shadow: 0 0 5px rgba(156, 182, 255, 0.5);
+}

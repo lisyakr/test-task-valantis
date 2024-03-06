@@ -1,0 +1,13 @@
+.filters {
+    padding: 20px;
+}
+
+.filters > label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+label,
+input {
+    display: block;
+}
