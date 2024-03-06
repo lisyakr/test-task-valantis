@@ -2,9 +2,11 @@
 
 Отображение списка товаров и его фильтрация по предоставленному API.
 
-Stack:
+[DEMO](http://cy39506.tw1.ru/)
 
-CRA for fast start
-ReactJS
-React context
-classnames
+**Stack:**
+-   CRA for fast start
+-   ReactJS
+-   React Context
+-   Debounce
+-   MD5-js
